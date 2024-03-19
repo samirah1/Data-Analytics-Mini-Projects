@@ -1,5 +1,5 @@
 # Data Analytics Mini Projects
-These are some mini-projects completed under the IBM Data Analyst Professional Certificate.
+These are some small projects completed under the IBM Data Analyst Professional Certificate.
 
 ## Project 1: Web Scraping and Data Wrangling - Analyzing Historical Stock-Revenue Data
 
